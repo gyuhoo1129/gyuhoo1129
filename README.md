@@ -1,6 +1,19 @@
-## Hi I'm gyuhee kim 👋👋👋
+## 안녕하세요, 김규희입니다 👋
 
-안녕하세요. 저는 동아대학교 컴퓨터공학과에 재학중인 김규희입니다.
-학번은 2545159입니다.
-저는 2006년 11월 29일생입니다.
-저는 유주한 교수님 산하 cvpr 연구실 학부연구연구생으로 있습니다.
+동아대학교 컴퓨터공학과 2학년이고, 웹 개발과 데이터베이스에 관심이 있습니다.
+
+### 🛠 Tech Stack
+- Language: C, Python, JavaScript
+- Web: HTML, CSS
+- Tools: Git, VS Code
+
+### 📚 Currently Learning
+- 컴퓨터네트워크, 데이터베이스 (2026-2학기)
+- 웹 프로그래밍 수업 프로젝트 진행 중
+
+### 📂 Projects
+- HereHear/oss
+- 
+
+### 📫 Contact
+- Email: kgh76071215@gmail.com
