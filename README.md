@@ -12,8 +12,8 @@
 - 웹 프로그래밍 수업 프로젝트 진행 중
 
 ### 📂 Projects
-- HereHear/oss
-- 
+- [HereHear](https://github.com/HereHear-OSS/HereHear-OSS): (한 줄 설명)
+
 
 ### 📫 Contact
 - Email: kgh76071215@gmail.com
